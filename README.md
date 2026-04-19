@@ -83,9 +83,9 @@
 <div align="center">
   <p><b>Connect with me across all digital platforms:</b></p>
   
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/[YOUR_FACEBOOK]"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alaa-mohamed-373534403/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/3laamo7amed20[YOUR_FACEBOOK]"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/3laamo7amed20/[YOUR_INSTAGRAM]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/[YOUR_TWITTER]"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://t.me/[YOUR_TELEGRAM]"><img src="https://img.shields.io/badge/Telegram-26A5E7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <br>
