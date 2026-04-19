@@ -74,7 +74,8 @@
 *Dynamic data visualization of development activity:*
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=alaanajah22&show_icons=true&theme=matrix&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaanajah22&layout=compact&theme=matrix&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alaanajah22&theme=matrix&hide_border=true" />
 </div>
 
 <br>
