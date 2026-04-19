@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00FF41&height=250&section=header&text=ALAA%20MOHAMED&fontSize=90&animation=twinkle&fontAlignY=35&theme=matrix&desc=SOFTWARE%20ENGINEER%20|%20FULL-STACK%20DEVELOPER%20|%20NETWORK%20ENGINEER&descSize=20&descAlignY=60" />
+  <img src="1770501729779.jpg" />
 </p>
 
 <div align="center">
