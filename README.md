@@ -74,14 +74,12 @@
 *Dynamic data visualization of development activity:*
 
 <div align="bottom">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaanajah22&layout=compact&theme=matrix&hide_border=true" />
- 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alaanajah22&theme=matrix&hide_border=true" />
 </div>
 
 <br>
 
-<div align="up">
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alaanajah22&theme=matrix&hide_border=true" />
+<div align="up">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaanajah22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
