@@ -18,7 +18,7 @@
 
 > **I am Alaa Mohamed Ahmed**, a Software Engineer driven by the challenge of building high-performance systems. My unique background allows me to design fluid **Web User Interfaces** while ensuring the underlying **Network & Server Architecture** is secure, scalable, and optimized for speed. I don't just write code; I build environments.
 ---
-### Full-Stack Web Developer Engineer | IT Networking | AI | Web Architecture
+##### Full-Stack Web Developer Engineer | IT Networking | AI | Web Architecture
 ---
 
 ### 💻 PROGRAMMING_LANGUAGES (THE FOUNDATION)
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-##🟨 Database & Query Languages
+## 🟨 Database & Query Languages
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
