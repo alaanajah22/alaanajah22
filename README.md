@@ -12,10 +12,8 @@
 </p>
 
 ---
-<div align="center">
-  ####Full-Stack Web Developer Engineer | IT Networking | AI | Web Architecture
+####Full-Stack Web Developer Engineer | IT Networking | AI | Web Architecture
                           📍 Based in Egypt 
-</div>
 ---
 
 ### 🟢 Who I Am
