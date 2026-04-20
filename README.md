@@ -16,7 +16,6 @@
   Full-Stack Web Developer Engineer | IT Networking | AI | Web Architecture
                           📍 Based in Egypt 
 </p>
----
 
 ### 🟢 Who I Am
 > **I am Alaa Mohamed Ahmed**, a Software Engineer driven by the challenge of building high-performance systems. My unique background allows me to design fluid **Web User Interfaces** while ensuring the underlying **Network & Server Architecture** is secure, scalable, and optimized for speed. I don't just write code; I build environments.
