@@ -89,15 +89,23 @@
 *Establish a secure connection via the following channels:*
 
 <div align="center">
-
-| CHANNEL | DESTINATION | SECURE_LINK |
-| :--- | :--- | :--- |
-| 💼 **LinkedIn** | Professional Networking | [alaanajah22-linkedin](https://www.linkedin.com/in/alaa-mohamed-373534403/) |
-| 🔵 **Facebook** | Social Interaction | [alaanajah22-facebook](https://www.facebook.com/3laamo7amed20) |
-| 📸 **Instagram** | Visual Updates | [alaanajah22-instagram](https://www.instagram.com/3laamo7amed20) |
-| 🟢 **WhatsApp** | Instant Messaging | [Click to Chat](https://wa.me/201023933277) |
-| 📧 **Official Mail** | Business Inquiries | [Send Email](mailto:alaanajah2025@gmail.com) |
-
+  <br>
+  <a href="https://www.linkedin.com/in/alaa-mohamed-373534403/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/3laamo7amed20">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/3laamo7amed20">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201023933277">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:alaanajah2025@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
 </div>
 
 ---
