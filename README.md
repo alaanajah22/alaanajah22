@@ -14,16 +14,16 @@
 ---
 
 
-### 🟢 Who I Am
+## 🟢 Who I Am
 
 > **I am Alaa Mohamed Ahmed**, a Software Engineer driven by the challenge of building high-performance systems. My unique background allows me to design fluid **Web User Interfaces** while ensuring the underlying **Network & Server Architecture** is secure, scalable, and optimized for speed. I don't just write code; I build environments.
 ---
-##### Full-Stack Web Developer Engineer | IT Networking | AI | Web Architecture
+# Full-Stack Web Developer Engineer | IT Networking | AI | Web Architecture
 ---
 
-### 💻 PROGRAMMING_LANGUAGES (THE FOUNDATION)
+## 💻 PROGRAMMING_LANGUAGES (THE FOUNDATION)
 *Detailed technical proficiency in core languages:*
-## 🟦 Core Programming & Logic
+### 🟦 Core Programming & Logic
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-## 🟧 Web Markup & Styling
+### 🟧 Web Markup & Styling
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,14 +41,14 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-## 🟨 Database & Query Languages
+### 🟨 Database & Query Languages
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
-## 🟩 Scripting & System Automation
+### 🟩 Scripting & System Automation
 <p align="left">
   <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -58,7 +58,7 @@
 
 ---
 
-### 🎨 FRONT_END_ENGINEERING (THE INTERFACE)
+## 🎨 FRONT_END_ENGINEERING (THE INTERFACE)
 *Specialized in creating pixel-perfect, responsive, and interactive user experiences:*
 
 | Component | Technologies & Frameworks |
@@ -71,7 +71,7 @@
 
 ---
 
-### ⚙️ BACK_END_&_SYSTEMS (THE ENGINE)
+## ⚙️ BACK_END_&_SYSTEMS (THE ENGINE)
 *Building robust, scalable server-side logic and database management:*
 
 | Module | Deployment Stack |
@@ -84,7 +84,7 @@
 
 ---
 
-### 📡 NETWORK_&_INFRASTRUCTURE (THE CORE)
+## 📡 NETWORK_&_INFRASTRUCTURE (THE CORE)
 *Deep expertise in hardware, networking protocols, and system administration:*
 
 * **Networking:** `CCNA Routing & Switching`, `TCP/IP`, `DNS/DHCP Config`.
@@ -95,7 +95,7 @@
 
 ---
 
-### 📊 SYSTEM_METRICS_&_ANALYTICS
+## 📊 SYSTEM_METRICS_&_ANALYTICS
 *Dynamic data visualization of development activity:*
 
 <div align="bottom">
@@ -110,7 +110,7 @@
 
 ---
 
-### 🔗 SOCIAL_COMMUNICATIONS_STATION
+## 🔗 SOCIAL_COMMUNICATIONS_STATION
 *Establish a secure connection via the following channels:*
 
 <div align="center">
@@ -135,7 +135,7 @@
 
 ---
 
-### 🛠️ WORKFLOW_&_ENVIRONMENT
+## 🛠️ WORKFLOW_&_ENVIRONMENT
 ```yaml
 system_user: "Alaa Mohamed"
 primary_roles: 
